@@ -1,2 +1,2 @@
 # URI-Online-Judge
-URI Acepted Exes.
+URI Acepted Exercises
